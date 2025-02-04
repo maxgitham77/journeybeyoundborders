@@ -36,14 +36,20 @@ const Menu = () => {
                                     <span>About</span>
                                 </Link>
                             </li>
+
+                            <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/discussions' ? 'active' : ''}`}>
+                                <Link className='nav-link text-title flex items-center gap-1' href={""}>
+                                    <span>Discussions</span>
+                                </Link>
+                            </li>
                             <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/service' ? 'active' : ''}`}>
                                 <Link className='nav-link text-title flex items-center gap-1' href={"/service"}>
                                     <span>Our Services</span>
                                 </Link>
                             </li>
-                            <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/case-studies' ? 'active' : ''}`}>
-                                <Link className='nav-link text-title flex items-center gap-1' href={"/case-studies"}>
-                                    <span>Case Studies</span>
+                            <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/our-mission' ? 'active' : ''}`}>
+                                <Link className='nav-link text-title flex items-center gap-1' href={"/our-mission"}>
+                                    <span>Our Mission</span>
                                 </Link>
                             </li>
                             <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/blog' ? 'active' : ''}`}>
@@ -88,12 +94,12 @@ const Menu = () => {
                                 </li>
                                 <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>
                                     <a className='nav-link-mobile flex items-center justify-between' href='/service'>
-                                        <span className='body2 font-bold'>Services</span>  
+                                        <span className='body2 font-bold'>Our Mission</span>
                                     </a>    
                                 </li>
                                 <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>
                                     <a className='nav-link-mobile flex items-center justify-between' href='/case-studies'>
-                                        <span className='body2 font-bold'>Case Studies</span>  
+                                        <span className='body2 font-bold'>Disussion</span>
                                     </a>    
                                 </li>
                                 <li className='nav-item-mobile h-full flex-column gap-2 pt-2 pl-3 pr-3 pb-2 pointer'>

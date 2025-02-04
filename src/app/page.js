@@ -13,6 +13,7 @@ import Blog from "@/components/Blog/Blog";
 import blogData from "@/data/blog.json";
 import Partner from "@/components/Partner/Partner";
 import Footer from "@/components/Footer/Footer";
+import "../styles/footer.scss";
 
 export default function Home() {
   return (

@@ -67,16 +67,18 @@ const Slider = () => {
                                             </div>
 
                                         </div>
-                                        <div className='body2 mt-3 text-secondary'>
+                                        <div className='body2 mt-3 text-secondary text-white'>
+                                            <div className="welcome-bg">
                                             Welcome to Journey Beyond Borders, an empowering project with a
                                             noble<br/> mission—to inform, educate, and uplift the youth in developing
                                             countries,<br/> inspiring them to seek better opportunities within their
                                             own communities<br/> rather than risking perilous journeys to Europe.
+                                            </div>
 
                                         </div>
 
                                         <div className='button-block md:mt-10 mt-6'>
-                                            <Link className='button-main bg-blue-700 text-white hover:bg-blue-500' href='/service'>
+                                            <Link className='button-main button-site text-white hover:button-site' href='/service'>
                                                 Find out more
                                             </Link>
                                         </div>

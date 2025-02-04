@@ -10,12 +10,12 @@ const TopNav = () => {
                     <div className='left-block flex items-center'>
                         <div className='location flex items-center max-lg:hidden'>
                             <Icon.MapPin className='text-white text-xl' />
-                            <span className='ml-2 caption1 text-white'>Koloniënstraat 11 Rue des Colonies,
+                            <span className='ml-2 caption1 text-white'>Konradstraat 11 Rue des Straat,
 1000 Brussels, Belgium</span>
                         </div>
                         <div className='mail lg:ml-7 flex items-center'>
                             <Icon.Envelope className='text-white text-xl' />
-                            <span className='ml-2 caption1 text-white'>support@journeybeyoundborders.com</span>
+                            <span className='ml-2 caption1 text-white'>support@journeybeyondborders.com</span>
                         </div>
                     </div>
 
