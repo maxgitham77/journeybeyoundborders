@@ -10,7 +10,7 @@ const RequestCallForm = () => {
                         Request a free call back.
                     </div>
                     <div className="body3 text-secondary">
-                        Get personalized advice to help reach your financial goals.
+                    Get personalized advice on how you can help us reach our goal.
                     </div>
                 </div>
 
@@ -27,8 +27,8 @@ const RequestCallForm = () => {
                         <div className="w-full select-arrow-none relative">
                             <select className="body3 md:py-[14px] py-3 px-5 bg-surface rounded-lg w-full bg-gray-100"
                                     name="category">
-                                <option value="Financial Planning">Financial Planning</option>
-                                <option value="Business Planning">Business Planning</option>
+                                <option value="Financial Planning">Education</option>
+                                <option value="Business Planning">Donation</option>
                                 <option value="Development Planning">Development Planning</option>
                             </select>
                             <Icon.CaretDown className="absolute top-1/2 -translate-y-1/2 right-5" />

@@ -15,9 +15,9 @@ const PaymentGateway = () => {
             <section className='payment-gateway-one style-first lg:mt-[100px] sm:mt-16 mt-10 bg-surface relative bg-slate-300'>
                 <div className='bg-img lg:absolute top-0 left-0 lg:w-1/2 w-full h-full flex-shrink-0'>
                     <Image
-                        src="/images/gateway1.webp"
+                        src="/images/frontgate.jpg"
                         width={5000}
-                        height={5000}
+                        height={4000}
                         alt='image'
                         className='w-full h-full object-cover'
                     />
@@ -38,24 +38,23 @@ const PaymentGateway = () => {
                                 </div>
 
                                 <div className='text-button text-secodary'>
-                                    Trusted by 5M+ People <br /> Around the globe.
+                                    Marcel Reinhardt<br /> CEO & Consultant.
                                 </div>
                             </div>
                             <div className='text lg:mt-14 mt-5'>
-                                <h3 className='heading3'>Payment Gateway Services</h3>
+                                <h3 className='heading3'>Message from the CEO</h3>
                                 <div className='body3 text-secondary lg:mt-6 mt-4'>
-                                    Get personalized financial advice to help reach your financial goals.
-                                    Get personalized financial advice to help reach your financial goals.
+                                At Journey Beyond Borders, we believe that knowledge empowers individuals to make informed decisions about their future. Our mission is to provide young people in developing countries with the resources, education, and support they need to explore opportunities safely—at home. Together, we can build a world where migration is a choice, not a necessity.
                                 </div>
                             </div>
                             <div className='flex button-block items-center max-sm:flex-wrap sm:gap-6 gap-3 lg:mt-12 mt-8 w-fit'>
                                 <Link className='button-main box-shadow bg-blue-700 hover:bg-black text-white bg-blue whitespace-nowrap rounded-full' href='/'>
-                                    Get Started
+                                    Join us
                                 </Link>
                                 <div className='relative'>
                                     <Link className='button-main box-shadow hover:bg-black hover:text-white text-on-surface bg-white flex items-center gap rounded-full relative z-[1]' href='/'>
                                         <Icon.Phone weight='fill' className='text-xl' />
-                                        <span className='whitespace-nowrap'>+49 (0)40 65765439</span>
+                                        <span className='whitespace-nowrap'>+3 (0)22 65765439</span>
                                     </Link>
                                     <Image
                                         src='/images/component/gateway1-dot.png'

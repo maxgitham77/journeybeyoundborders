@@ -18,8 +18,8 @@ const Footer = () => {
                                 className="footer-logo w-[145px]"
                             />
                             <div className="text caption1 text-white">
-                                The jobs report soundly beat expectations,
-                                with job gains broadly spread across the economy and about 60% higher
+                            Our goal is to empower young people with knowledge, resources, 
+                            and opportunities to build a better future in their home countries.
                             </div>
                             <div className="list-social flex items-center gap-2">
                                 <Link
@@ -62,28 +62,28 @@ const Footer = () => {
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            About Us
+                                            Membership
                                         </Link>
                                     </li>
                                     <li>
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            Services
+                                            FAQ
                                         </Link>
                                     </li>
                                     <li>
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            Case Studies
+                                            Donate
                                         </Link>
                                     </li>
                                     <li>
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            Contact
+                                            Get Involved
                                         </Link>
                                     </li>
                                 </ul>
@@ -134,14 +134,14 @@ const Footer = () => {
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            About Us
+                                            Migration
                                         </Link>
                                     </li>
                                     <li>
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            Services
+                                            Local Opportunuties
                                         </Link>
                                     </li>
                                     <li>
@@ -155,7 +155,7 @@ const Footer = () => {
                                         <Link
                                             className="caption1 has-line-before line-white text-surface hover-underline"
                                             href="/">
-                                            Contact
+                                            Education
                                         </Link>
                                     </li>
                                 </ul>
@@ -184,7 +184,7 @@ const Footer = () => {
                             <div className="locate mt-3 flex items-center">
                                 <div className="caption1 text-surface text-white">
                                     Regus Brussels,
-                                    Koloniënstraat 11 Rue des Colonies (1st floor)
+                                    Konradstraat 11 Rue des Straat (1st floor)
                                     1000 Brussels, Belgium
                                 </div>
                             </div>
@@ -207,7 +207,7 @@ const Footer = () => {
                 <div className="footer-bottom flex items-center justify-between pt-3 pb-3">
                     <div className="left-block flex items-center">
                         <div className="copy-right text-surface caption1 text-white">
-                            @2024 JBB. All Rights Reserved
+                            @2025 JBB. All Rights Reserved
                         </div>
                     </div>
                     <div className="nav-link flex items-center gap-3 text-white">

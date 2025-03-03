@@ -37,11 +37,11 @@ const Menu = () => {
                                 </Link>
                             </li>
 
-                            <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/discussions' ? 'active' : ''}`}>
+                            {/*<li className={`nav-item h-full flex items-center justify-center home ${pathname === '/discussions' ? 'active' : ''}`}>
                                 <Link className='nav-link text-title flex items-center gap-1' href={""}>
                                     <span>Discussions</span>
                                 </Link>
-                            </li>
+                            </li>*/}
                             <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/service' ? 'active' : ''}`}>
                                 <Link className='nav-link text-title flex items-center gap-1' href={"/service"}>
                                     <span>Our Services</span>
@@ -52,11 +52,11 @@ const Menu = () => {
                                     <span>Our Mission</span>
                                 </Link>
                             </li>
-                            <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/blog' ? 'active' : ''}`}>
+                            {/*<li className={`nav-item h-full flex items-center justify-center home ${pathname === '/blog' ? 'active' : ''}`}>
                                 <Link className='nav-link text-title flex items-center gap-1' href={"/blog"}>
                                     <span>Blog</span>
                                 </Link>
-                            </li>
+                            </li>*/}
                             <li className={`nav-item h-full flex items-center justify-center home ${pathname === '/contact' ? 'active' : ''}`}>
                                 <Link className='nav-link text-title flex items-center gap-1' href={"/contact"}>
                                     <span>Contact Us</span>

@@ -76,18 +76,11 @@ const ContactPage = () => {
                                             </div>
                                             <div className="line-y"></div>
                                             <div
-                                                className="text-button normal-case text-white">support@juorneybeyoundborderss.org
+                                                className="text-button normal-case text-white">support@jbb.org
                                             </div>
                                         </div>
 
-                                        <div className="item flex items-center gap-3 mt-5">
-                                            <div
-                                                className="flex items-center justify-center w-8 h-8 bg-white rounded-full flex-shrink-0">
-                                                <Icon.MapPin weight="bold" className="text-blue text-2xl"/>
-                                            </div>
-                                            <div className="line-y"></div>
-                                            <div className="text-button normal-case text-white">Kolonien str</div>
-                                        </div>
+                                        
 
                                     </div>
                                 </div>

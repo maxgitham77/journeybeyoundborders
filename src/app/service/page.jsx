@@ -22,8 +22,8 @@ const ServicePage = () => {
                 <Breadcrumb
                     link="Our Services"
                     img="/images/header.webp"
-                    title="Our Services"
-                    description="The jobs report soundly beat expectations. The jobs report soundly beat expectations. The jobs report soundly beat expectations."
+                    title="Guiding Paths"
+                    description="From migration awareness to skill development and entrepreneurship programs, our services are designed to create safer and more sustainable futures in their home countries."
                 />
 
                 <div className="mt-[100px]">
@@ -31,14 +31,24 @@ const ServicePage = () => {
                         <div className="flex gap-8 max-lg:flex-col-reverse">
                             <div className="w-full lg:w-1/2 flex flex-col justify-between gap-5 pr-10">
                                 <div className="heading3">
-                                    Credit Card Management Use Wisely
+                                    Our Services
                                     <div className="body2 text-secondary mt-4">
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
+                                    At Journey Beyond Borders, our services are designed to empower individuals with 
+                                    the knowledge and opportunities they need to build a better future at home. 
+                                    We provide educational programs that raise awareness about the realities of 
+                                    migration, helping young people make informed decisions instead of risking 
+                                    dangerous and uncertain journeys. Through workshops, mentorship, and access 
+                                    to credible information, we guide individuals toward safer and more sustainable 
+                                    pathways for personal and professional growth.
+                                    <br /><br />
+                                    Beyond education, we focus on skill development and economic empowerment. 
+                                    Our entrepreneurship programs equip young people with the tools and resources 
+                                    needed to start their own businesses, fostering self-reliance and economic 
+                                    stability in their communities. We also collaborate with local organizations 
+                                    to create job opportunities and vocational training programs, ensuring that 
+                                    individuals have viable alternatives to migration. By investing in people, 
+                                    we help build stronger, more resilient communities where success is possible 
+                                    without leaving home.
                                     </div>
                                 </div>
                             </div>
@@ -47,7 +57,7 @@ const ServicePage = () => {
                                     <Image
                                         width={5000}
                                         height={5000}
-                                        src="/images/assessment.webp"
+                                        src="/images/services.jpg"
                                         alt="image"
                                         className="w-full h-full block"
                                     />

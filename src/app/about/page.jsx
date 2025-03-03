@@ -37,11 +37,11 @@ const AboutPage = () => {
                         <Breadcrumb
                             link="About Us"
                             img="/images/header.webp"
-                            title="About Us"
-                            description="The jobs report soundly beat expectations. The jobs report soundly beat expectations. The jobs report soundly beat expectations."
+                            title="Empowering Informed Choices"
+                            description="We are dedicated to educating and empowering young people with the knowledge they need to make informed decisions about their future."
                         />
                         <AboutSection />
-                        <Counter className="lg:pb-[50px] sm:pb-16 pb-10" />
+                       
                         <Service data={serviceData}  />
                     </>
                 )

@@ -16,10 +16,10 @@ const Partner = () => {
             </div>
             <div className="container flex items-center justify-between max-lg:flex-col max-lg:justify-center gap-6 h-full">
                 <div className="heading5 max-lg:text-center text-white">
-                    Looking for a first-class business consultant?
+                Still wondering how to be part of the journey?
                 </div>
                 <Link className="button-main rounded-full hover:bg-black hover:text-white bg-white text-button px-9 py-3" href="/">
-                    Get A Contact
+                    Get A Contact!
                 </Link>
             </div>
         </div>

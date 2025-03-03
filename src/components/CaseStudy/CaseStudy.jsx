@@ -12,7 +12,7 @@ const CaseStudy = () => {
                         <h3 className='heading3'>Case Study</h3>
                         <div className='right flex flex-col items-center gap-2 mt-3'>
                             <div className='body3'>
-                                Experience the excitement and potential of the
+                                Experiences that shape lifes
                             </div>
                             <Link className='flex items-center gap-2 hover:text-blue duration-300' href='/'>
                                 <div className='text-button'>View All Case List</div>
@@ -29,7 +29,7 @@ const CaseStudy = () => {
                             <div className='case-study-item'>
                                 <div className='bg-img'>
                                     <Image
-                                        src='/images/casefour.webp'
+                                        src='/images/Case2.jpg'
                                         width={5000}
                                         height={5000}
                                         className='w-full h-full block'
@@ -39,12 +39,11 @@ const CaseStudy = () => {
                                 <div className='text flex flex-col justify-between gap-3'>
                                     <div className='heading5'>
                                         <Link className='text-white' href='/'>
-                                            Payment Solution
+                                        A Young Entrepreneur’s Success
                                         </Link>
                                     </div>
                                     <div className='text-white body2'>
-                                        Experience the excitement and potential of the
-                                        cryptocurrency market with our expert.
+                                    Maria, a 22-year-old from Guatemala, once dreamed of migrating to the U.S. However, after
                                     </div>
                                     <Link className='flex items-center gap-1' href='/'>
                                         <div className='text-button text-white'>
@@ -60,7 +59,7 @@ const CaseStudy = () => {
                             <div className='case-study-item'>
                                 <div className='bg-img'>
                                     <Image
-                                        src='/images/casethree.webp'
+                                        src='/images/Case.jpg'
                                         width={5000}
                                         height={5000}
                                         className='w-full h-full block'
@@ -70,12 +69,15 @@ const CaseStudy = () => {
                                 <div className='text flex flex-col justify-between gap-3'>
                                     <div className='heading5'>
                                         <Link className='text-white' href='/'>
-                                            Payment Solution
+                                        A Young Man’s Dangerous Journey
                                         </Link>
                                     </div>
                                     <div className='text-white body2'>
-                                        Experience the excitement and potential of the
-                                        cryptocurrency market with our expert.
+                                    Kweme, a 19-year-old from West Africa, left his home with hopes of reaching Europe 
+                                    {/*for a better life. After enduring human traffickers, extreme desert conditions, 
+                                    and detention in Libya, he realized the harsh realities of irregular migration. 
+                                    His story sheds light on the dangers faced by migrants and the importance of making 
+                                    informed choices.*/}
                                     </div>
                                     <Link className='flex items-center gap-1' href='/'>
                                         <div className='text-button text-white'>
@@ -91,7 +93,7 @@ const CaseStudy = () => {
                             <div className='case-study-item'>
                                 <div className='bg-img'>
                                     <Image
-                                        src='/images/casefour.webp'
+                                        src='/images/Case3.jpg'
                                         width={5000}
                                         height={5000}
                                         className='w-full h-full block'
@@ -101,12 +103,11 @@ const CaseStudy = () => {
                                 <div className='text flex flex-col justify-between gap-3'>
                                     <div className='heading5'>
                                         <Link className='text-white' href='/'>
-                                            Payment Solution
+                                        The Power of Education
                                         </Link>
                                     </div>
                                     <div className='text-white body2'>
-                                        Experience the excitement and potential of the
-                                        cryptocurrency market with our expert.
+                                    Lucky fled conflict in his home country and arrived in Uganda as a refugee. With the help 
                                     </div>
                                     <Link className='flex items-center gap-1' href='/'>
                                         <div className='text-button text-white'>
@@ -122,7 +123,7 @@ const CaseStudy = () => {
                             <div className='case-study-item'>
                                 <div className='bg-img'>
                                     <Image
-                                        src='/images/casefour.webp'
+                                        src='/images/Case4.jpg'
                                         width={5000}
                                         height={5000}
                                         className='w-full h-full block'
@@ -132,12 +133,11 @@ const CaseStudy = () => {
                                 <div className='text flex flex-col justify-between gap-3'>
                                     <div className='heading5'>
                                         <Link className='text-white' href='/'>
-                                            Payment Solution
+                                        How a Family Was Misled About Migration
                                         </Link>
                                     </div>
                                     <div className='text-white body2'>
-                                        Experience the excitement and potential of the
-                                        cryptocurrency market with our expert.
+                                    Asha’s family in Ethiopia sold their land to pay smugglers who promised her a
                                     </div>
                                     <Link className='flex items-center gap-1' href='/'>
                                         <div className='text-button text-white'>

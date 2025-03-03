@@ -1,52 +1,52 @@
 [
     {
         "icon": "icon-coin-chair",
-        "category": "payment solution",
-        "title": "Cryptocurrency Trading",
-        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
-        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+        "category": "Education & Awareness",
+        "title": "Empowering Youth with Knowledge",
+        "desc": "At Journey Beyond Borders, we believe knowledge is the key to empowerment. Our platform provides youth in developing countries with accurate information about migration, life in Europe, and local opportunities. Through educational programs, storytelling, and expert insights, we equip young individuals with the tools they need to make informed choices that shape their futures. By fostering awareness and critical thinking, we help them navigate their aspirations with clarity and confidence.",
+        "shortDesc": "We provide young individuals with accurate information and educational resources to help them make informed decisions about their future."
     },
     {
         "icon": "icon-hand-tick",
-        "category": "payment solution",
-        "title": "Portfolio Management",
-        "desc": "We analyze market trends, manage risks, and optimize your portfolio to maximize returns and achieve your financial goals.",
-        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+        "category": "Migration Awareness",
+        "title": "Promoting Safe and Informed Migration Choices",
+        "desc": "Many young people dream of migrating to Europe, often unaware of the dangers and challenges they may face along the way. Journey Beyond Borders is committed to educating youth on the realities of migration, from human trafficking risks to economic hardships. Our goal is not to discourage migration but to promote safer and legal pathways. By providing real-life testimonies, expert insights, and migration policy breakdowns, we empower individuals to make informed and responsible migration decisions.",
+        "shortDesc": "We raise awareness about the risks of irregular migration and provide guidance on safer, legal alternatives."
     },
     {
         "icon": "icon-hand-house",
-        "category": "payment solution",
-        "title": "Investment Advice",
-        "desc": "Our team of experienced advisors will guide you in making informed investment, whether you're a beginner trader.",
-        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+        "category": "Economic Development",
+        "title": "Celebrating Local Opportunities and Entrepreneurship",
+        "desc": "Instead of seeking opportunities abroad, many young people have the potential to thrive in their home countries. Journey Beyond Borders showcases inspiring stories of local entrepreneurs, job opportunities, and development programs that provide alternatives to migration. By promoting skill-building, innovation, and small business support, we encourage young individuals to see their communities as places of growth and success. Through partnerships and mentorship programs, we help youth unlock their potential and contribute to local economic development.",
+        "shortDesc": "We highlight local opportunities, entrepreneurship, and career pathways to encourage youth to build a future in their home countries."
     },
     {
         "icon": "icon-gear-warning",
-        "category": "payment solution",
-        "title": "Risk Management",
-        "desc": "We employ industry-leading tools and techniques to protect your investments and minimize potential losses.",
-        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+        "category": "Social & Cultural Exchange",
+        "title": "Fostering Cross-Cultural Understanding",
+        "desc": "Migration is not just about movement; it’s about cultures meeting, understanding, and coexisting. Journey Beyond Borders promotes cultural awareness through storytelling, discussions, and educational resources. We encourage dialogue between migrants and host communities to foster mutual respect and understanding. By highlighting shared experiences and celebrating cultural diversity, we build bridges of empathy and break down stereotypes, creating a more inclusive and accepting world.",
+        "shortDesc": "We bridge cultural gaps by promoting dialogue and exchange between diverse communities."
     },
     {
         "icon": "icon-text-search",
-        "category": "payment solution",
-        "title": "Research and Analysis",
-        "desc": "We provide timely reports, market updates, and data-driven insights to help you make informed trading decisions.",
-        "shortDesc": "We provide timely reports, market updates, and data-driven insights to help you make informed trading decisions."
+        "category": "Human Rights & Social Justice",
+        "title": "Advocating for Human Rights and Dignity",
+        "desc": "Every individual deserves dignity, respect, and protection, regardless of their background or migration status. Journey Beyond Borders actively raises awareness about human rights violations, exploitation, and discrimination faced by migrants and refugees. We collaborate with advocacy groups, policymakers, and humanitarian organizations to push for fair migration policies and better protection measures. Through storytelling and awareness campaigns, we amplify the voices of those often unheard, advocating for justice and human rights.",
+        "shortDesc": "We stand for the rights and dignity of migrants, refugees, and vulnerable communities worldwide."
     },
     {
         "icon": "icon-education",
-        "category": "payment solution",
+        "category": "Capacity Building & Awareness",
         "title": "Education and Resources",
-        "desc": "Expand your knowledge and skills in cryptocurrency trading through our educational resources.",
-        "shortDesc": "We provide timely reports, market updates, and data-driven insights to help you make informed trading decisions."
+        "desc": "Access to reliable information is essential for making informed decisions. Journey Beyond Borders offers educational resources such as articles, workshops, webinars, and digital toolkits to help youth understand migration, local opportunities, and personal development. Our materials cover topics like migration policies, entrepreneurship, job skills, and cultural exchange. By equipping young individuals with the right knowledge, we empower them to navigate their futures with confidence, unlocking new possibilities within their own communities.",
+        "shortDesc": "We provide educational materials, workshops, and digital resources to equip youth with the knowledge needed to make informed life choices."
     },
     {
         "icon": "icon-coin-hand",
-        "category": "financial planning",
-        "title": "Budget planning",
-        "desc": "Experience the excitement and potential of the cryptocurrency market with our expert trading services.",
-        "shortDesc": "Get personalized financial advice to help reach your financial goals."
+        "category": "Community Development & Sustainability",
+        "title": "Building Stronger Communities for a Sustainable Future",
+        "desc": "A strong community provides security, opportunities, and hope for the future. Journey Beyond Borders focuses on community-driven development projects that enhance education, healthcare, and economic stability. By promoting sustainable solutions—such as vocational training, environmental conservation, and social entrepreneurship—we help create thriving communities where people can build fulfilling lives without feeling forced to leave. Through collective action, we can reduce the root causes of unsafe migration and create a better future for all.",
+        "shortDesc": "We support sustainable development initiatives that empower communities and reduce the need for unsafe migration."
     },
     {
         "icon": "icon-coin-pig",

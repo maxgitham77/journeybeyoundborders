@@ -20,10 +20,10 @@ const DiscussionsPage = () => {
 
             <main className="content">
                 <Breadcrumb
-                    link="Our Services"
+                    link="Our Mission"
                     img="/images/header.webp"
-                    title="Our Services"
-                    description="The jobs report soundly beat expectations. The jobs report soundly beat expectations. The jobs report soundly beat expectations."
+                    title="Creating Opportunities"
+                    description="By providing knowledge, resources, and sustainable opportunities, we empower individuals to build a better life at home, reducing the risks of unsafe migration."
                 />
 
                 <div className="mt-[100px]">
@@ -31,14 +31,20 @@ const DiscussionsPage = () => {
                         <div className="flex gap-8 max-lg:flex-col-reverse">
                             <div className="w-full lg:w-1/2 flex flex-col justify-between gap-5 pr-10">
                                 <div className="heading3">
-                                    Credit Card Management Use Wisely
+                                Our Mission – Empowering Choices, Creating Opportunities
                                     <div className="body2 text-secondary mt-4">
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
-                                        The jobs report soundly beat expectations. The jobs report soundly beat
-                                        expectations.
+                                    At Journey Beyond Borders, our mission is to educate, empower, and support individuals 
+                                    in making informed decisions about their future. Many young people believe that 
+                                    migrating to Europe is the only way to achieve a better life, often unaware of the 
+                                    risks and challenges they may face along the way. We strive to provide them with the 
+                                    knowledge, resources, and opportunities needed to build successful futures in their 
+                                    home countries, reducing the dangers of irregular migration.
+                                    <br /><br />
+                                    We believe that access to reliable information is key to making informed choices. 
+                                    Misinformation about migration is widespread, leading many young people to embark on 
+                                    dangerous journeys based on false promises. Through education programs, workshops, 
+                                    and awareness campaigns, we provide clear and accurate insights into the realities 
+                                    of migration, helping individuals weigh their options and explore safer alternatives.
                                     </div>
                                 </div>
                             </div>
@@ -47,7 +53,7 @@ const DiscussionsPage = () => {
                                     <Image
                                         width={5000}
                                         height={5000}
-                                        src="/images/assessment.webp"
+                                        src="/images/mission.jpg"
                                         alt="image"
                                         className="w-full h-full block"
                                     />
@@ -57,7 +63,42 @@ const DiscussionsPage = () => {
                     </div>
                 </div>
 
-                <Service data={serviceData}  />
+                <div className="container">
+                <div className="body2 text-secondary mt-4 mb-10">
+                Beyond awareness, we focus on economic empowerment. One of the main reasons young people leave 
+                their home countries is the lack of economic opportunities. Our mission includes supporting 
+                local entrepreneurship, skill-building programs, and job creation initiatives. By equipping 
+                young people with the skills and resources they need, we help them create sustainable livelihoods 
+                in their communities.
+                <br /><br />
+                Community development is at the heart of our work. We collaborate with local organizations, 
+                businesses, and governments to strengthen communities and create environments where young 
+                people can thrive. By investing in education, infrastructure, and economic development, 
+                we work towards long-term solutions that reduce the need for migration as a last resort.
+                <br /><br />
+                We also advocate for policies that support safe and legal migration pathways. While our goal 
+                is to help individuals find opportunities at home, we recognize that migration will always be 
+                a part of human history. We work to ensure that those who choose to migrate do so through safe, 
+                legal, and informed processes, minimizing risks such as exploitation and trafficking.
+                <br /><br />
+                Our mission extends beyond individuals—we aim to shift perspectives on migration at a societal 
+                level. By fostering cross-cultural understanding, we encourage open discussions about the 
+                benefits and challenges of migration. We work to break down stereotypes and promote a balanced 
+                view that respects the rights and dignity of migrants while addressing the root causes of forced 
+                migration.
+                <br /><br />
+                Through mentorship and guidance, we empower young leaders who can inspire change within their own 
+                communities. We believe in the power of role models—those who have successfully built lives at 
+                home despite challenges. By highlighting success stories and connecting youth with mentors, we 
+                create a support system that encourages resilience and innovation.
+                <br /><br />
+                At Journey Beyond Borders, we envision a world where migration is a choice, not a necessity. 
+                We remain committed to providing the knowledge, resources, and support needed to make this 
+                vision a reality. By working together, we can create a future where young people feel empowered 
+                to pursue their dreams without risking their lives in search of uncertain opportunities abroad.
+                <br /><br />
+                </div>
+                </div>
             </main>
 
 

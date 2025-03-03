@@ -4,7 +4,8 @@ import Link from "next/link";
 const ServiceItem = ({data,number}) => {
     return (
         <div className='service-item p-8 bg-white rounded-lg border border-line hover-box-shadow'>
-            <Link className='service-item-main h-full' href={"/service/service-details/[slug]"} as={`/service/service-details/${data.title.toLowerCase().replace(/ /g, '-')}`}>
+            {/*{"/service/service-details/[slug]"} as={`/service/service-details/${data.title.toLowerCase().replace(/ /g, '-')}`} */}
+            <Link className='service-item-main h-full' href="#">
                 <div className='heading flex items-center justify-between'>
                     <i className={`${data.icon} text-site-color md:text-6xl text-5xl`}></i>
                     <div className='number heading3 text-placehover text-slate-400'>{number + 1}</div>
